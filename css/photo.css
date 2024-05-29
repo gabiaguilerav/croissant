@@ -16,3 +16,7 @@ body {
   text-decoration: underline;
   color: white;
 }
+
+h1 {
+  font-weight: bold;
+}

@@ -16,3 +16,14 @@ body {
   text-decoration: underline;
   color: white;
 }
+
+.email {
+  text-decoration: none;
+  color: darkslateblue;
+  transition: all 150ms ease-in-out;
+}
+
+.email:hover {
+  text-decoration: underline;
+  color: white;
+}
