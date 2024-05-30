@@ -3,7 +3,7 @@ body {
   font-family: "Courier New", Courier, monospace;
   background-color: rgb(237, 186, 170);
   text-align: center;
-  padding: 200px 250px;
+  padding: 150px 250px;
 }
 
 .container a {
@@ -19,4 +19,9 @@ body {
 
 h1 {
   font-weight: bold;
+}
+
+.footer-img {
+  margin-top: 7px;
+  line-height: 1;
 }
